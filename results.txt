@@ -1,0 +1,26 @@
+Results Santiago's Algorithm
+-----------------------------------------------------
+Building tree for depth 3 and branching factor 4
+Matches top-1 26 --> 52%
+Matches top-5 33 --> 66%
+-----------------------------------------------------
+Building tree for depth 5 and branching factor 4
+Matches top-1 25 --> 50%
+Matches top-5 31 --> 62%
+-----------------------------------------------------
+Building tree for depth 7 and branching factor 5
+Matches top-1 25 --> 50%
+Matches top-5 33 --> 66%
+Computing for feature percentage
+--------------------------------------------------
+Computing for percentage of features 0.9
+Matches top-1 25 --> 50%
+Matches top-5 33 --> 66%
+--------------------------------------------------
+Computing for percentage of features 0.7
+Matches top-1 26 --> 52%
+Matches top-5 32 --> 64%
+--------------------------------------------------
+Computing for percentage of features 0.5
+Matches top-1 25 --> 50%
+Matches top-5 31 --> 62%
